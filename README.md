@@ -4,4 +4,4 @@ Desafie seus amigos neste jogo de advinhação por reconhecimento de voz: Quem d
 
 Jogar: https://guessing-game-sand.vercel.app/
 
-Aplicação foi desenvolvida com Javascript, HTML e CSS juntamente da API SpeechRecognition. 
+Aplicação desenvolvida com Javascript, HTML e CSS juntamente da API SpeechRecognition. 
