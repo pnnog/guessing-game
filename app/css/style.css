@@ -1,0 +1,59 @@
+:root{
+ --font-family: 'Montserrat', sans-serif;
+ --bg-color: #19A7CE;
+ --primary-color: #F6F1F1;
+
+}
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 62.5%;
+}
+
+body{
+  font-family: var(--font-family);
+  background-color: var(--bg-color);
+  color: var(--primary-color);
+
+  height: 100vh;
+  display: flex;
+  gap: 2rem;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+p{
+  font-size:2rem;
+}
+
+.btn-reload{
+  border: 0;
+  padding: 1rem 2rem;
+  cursor: pointer;
+  background-color: var(--primary-color);
+  color: black;
+  border-radius: .3rem;
+}
+
+
+header > p{
+  font-size:2rem;
+  margin-bottom: .8rem;
+}
+
+.shot{
+  font-size: 10rem;
+  display: inline-block;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border: .2rem solid var(--primary-color);
+  padding: 1rem 3rem;
+}
