@@ -1,4 +1,4 @@
-# guessing-game
+# Guessing Game
 
 Desafie seus amigos neste jogo de advinhação por reconhecimento de voz: Quem descobrirá o misterioso número primeiro?
 
